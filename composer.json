@@ -1,0 +1,30 @@
+{
+    "name": "kohandani/ticketing",
+    "description": " Api-based ticketing support system",
+    "type": "library",
+    "require": {
+        "nwidart/laravel-modules": "^8.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "alirezakohandani",
+            "email": "alireza.ko73@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "kohandani\\ticketing\\": "src/"
+        }
+    }
+    
+}
