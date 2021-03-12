@@ -1,6 +1,6 @@
 <?php
 
-namespace Modules\Ticketing\Transformers\Admin;
+namespace Kohandani\Ticketing\Transformers\Admin;
 
 use Illuminate\Http\Resources\Json\ResourceCollection;
 

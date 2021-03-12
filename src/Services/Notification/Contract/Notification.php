@@ -1,6 +1,6 @@
 <?php
 
-namespace Modules\Ticketing\Services\Notification\Contract;
+namespace Kohandani\Ticketing\Services\Notification\Contract;
 
 interface Notification
 {

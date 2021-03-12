@@ -1,6 +1,6 @@
 <?php
 
-namespace Modules\Ticketing\Database\Seeders;
+namespace Kohandani\Ticketing\Database\Seeders;
 
 use Illuminate\Database\Seeder;
 use Illuminate\Database\Eloquent\Model;

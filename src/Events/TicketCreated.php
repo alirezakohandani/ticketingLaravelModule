@@ -1,6 +1,6 @@
 <?php
 
-namespace Modules\Ticketing\Events;
+namespace Kohandani\Ticketing\Events;
 
 use Illuminate\Queue\SerializesModels;
 use Modules\Ticketing\Entities\Ticket;

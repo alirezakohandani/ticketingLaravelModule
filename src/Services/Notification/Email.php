@@ -1,6 +1,6 @@
 <?php
 
-namespace Modules\Ticketing\Services\Notification;
+namespace Kohandani\Ticketing\Services\Notification;
 
 use Illuminate\Support\Facades\Mail;
 use Modules\Ticketing\Jobs\SendEmail;

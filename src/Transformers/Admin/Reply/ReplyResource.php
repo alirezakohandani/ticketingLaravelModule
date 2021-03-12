@@ -1,6 +1,6 @@
 <?php
 
-namespace Modules\Ticketing\Transformers\Admin\Reply;
+namespace Kohandani\Ticketing\Transformers\Admin\Reply;
 
 use Illuminate\Http\Resources\Json\JsonResource;
 use Modules\Ticketing\Entities\Ticket;

@@ -1,6 +1,6 @@
 <?php
 
-namespace Modules\Ticketing\Jobs;
+namespace Kohandani\Ticketing\Jobs;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Queue\SerializesModels;

@@ -1,6 +1,6 @@
 <?php
 
-namespace Modules\Ticketing\Console;
+namespace Kohandani\Ticketing\Console;
 
 use Illuminate\Console\Command;
 use Modules\Ticketing\Entities\Ticket;

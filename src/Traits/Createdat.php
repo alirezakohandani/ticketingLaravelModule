@@ -1,6 +1,6 @@
 <?php
 
-namespace Modules\Ticketing\Traits;
+namespace Kohandani\Ticketing\Traits;
 
 
 trait CreatedAt

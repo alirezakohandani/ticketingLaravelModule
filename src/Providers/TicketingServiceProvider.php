@@ -1,6 +1,6 @@
 <?php
 
-namespace Modules\Ticketing\Providers;
+namespace Kohandani\Ticketing\Providers;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Database\Eloquent\Factory;

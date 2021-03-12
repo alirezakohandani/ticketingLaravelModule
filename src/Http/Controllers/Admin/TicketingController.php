@@ -1,6 +1,6 @@
 <?php
 
-namespace Modules\Ticketing\Http\Controllers\Admin;
+namespace Kohandani\Ticketing\Http\Controllers\Admin;
 
 use Illuminate\Http\Request;
 use Illuminate\Routing\Controller;

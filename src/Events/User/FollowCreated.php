@@ -1,6 +1,6 @@
 <?php
 
-namespace Modules\Ticketing\Events\User;
+namespace Kohandani\Ticketing\Events\User;
 
 use Illuminate\Queue\SerializesModels;
 use Modules\Ticketing\Entities\Message;

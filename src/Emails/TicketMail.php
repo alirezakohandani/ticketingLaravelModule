@@ -1,6 +1,6 @@
 <?php
 
-namespace Modules\Ticketing\Emails;
+namespace Kohandani\Ticketing\Emails;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Mail\Mailable;
