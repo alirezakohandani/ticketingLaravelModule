@@ -1,6 +1,6 @@
 <?php
 
-namespace Modules\Ticketing\Transformers\Errors;
+namespace Kohandani\Ticketing\Transformers\Errors;
 
 use Illuminate\Http\Resources\Json\JsonResource;
 

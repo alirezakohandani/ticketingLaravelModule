@@ -1,6 +1,6 @@
 <?php
 
-namespace Modules\Ticketing\Listeners;
+namespace Kohandani\Ticketing\Listeners;
 
 use Modules\Ticketing\Events\ReplyCreated;
 use Illuminate\Queue\InteractsWithQueue;

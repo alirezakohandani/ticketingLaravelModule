@@ -1,6 +1,6 @@
 <?php
 
-namespace Modules\Ticketing\Listeners\User;
+namespace Kohandani\Ticketing\Listeners\User;
 
 
 use Illuminate\Queue\InteractsWithQueue;

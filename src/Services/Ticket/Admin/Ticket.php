@@ -1,6 +1,6 @@
 <?php
 
-namespace Modules\Ticketing\Services\Ticket\Admin;
+namespace Kohandani\Ticketing\Services\Ticket\Admin;
 
 use Illuminate\Auth\Access\AuthorizationException;
 use Illuminate\Http\Request;

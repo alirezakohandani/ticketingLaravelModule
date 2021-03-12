@@ -1,6 +1,6 @@
 <?php
 
-namespace Modules\Ticketing\Rules;
+namespace Kohandani\Ticketing\Rules;
 
 use Illuminate\Contracts\Validation\Rule;
 use Illuminate\Http\Request;

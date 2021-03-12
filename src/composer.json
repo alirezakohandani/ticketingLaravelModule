@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "kohandani\\ticketing\\": "src/"
+            "Kohandani\\Ticketing\\": "src/"
         }
     }
     

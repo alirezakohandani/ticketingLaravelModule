@@ -1,6 +1,6 @@
 <?php
 
-namespace Modules\Ticketing\Providers;
+namespace Kohandani\Ticketing\Providers;
 
 use Illuminate\Support\Facades\Route;
 use Illuminate\Foundation\Support\Providers\RouteServiceProvider as ServiceProvider;

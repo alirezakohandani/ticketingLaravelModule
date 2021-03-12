@@ -1,6 +1,6 @@
 <?php
 
-namespace Modules\Ticketing\Transformers;
+namespace Kohandani\Ticketing\Transformers;
 
 use Illuminate\Http\Resources\Json\JsonResource;
 

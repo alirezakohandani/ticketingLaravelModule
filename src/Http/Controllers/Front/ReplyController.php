@@ -1,6 +1,6 @@
 <?php
 
-namespace Modules\Ticketing\Http\Controllers\Front;
+namespace Kohandani\Ticketing\Http\Controllers\Front;
 
 use Illuminate\Contracts\Support\Renderable;
 use Illuminate\Http\Request;
